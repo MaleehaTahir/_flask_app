@@ -1,0 +1,5 @@
+.gitignore
+.idea/
+src_app/__pycache__/
+static/
+templates/
